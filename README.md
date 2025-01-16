@@ -24,9 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 
- <iframe width="420" height="315"
-src="https://www.youtube.com/embed/wAAhmiVgbhw" alt="Video Walkthrough">
-</iframe> 
+https://www.youtube.com/embed/wAAhmiVgbhw
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with Kapture 
